@@ -336,3 +336,5 @@ global with sharing class BINGOController {
       return ret;
     }
 }
+
+// Comment for trigger
