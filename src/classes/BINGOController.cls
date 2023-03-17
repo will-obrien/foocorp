@@ -335,6 +335,10 @@ global with sharing class BINGOController {
       
       return ret;
     }
+    
+    public void badMethod(Integer param){
+        param =8;
+    }
 }
 
 // Comment for trigger
